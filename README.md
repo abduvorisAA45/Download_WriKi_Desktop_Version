@@ -4,10 +4,8 @@ Latest version (v1.2.4)
 
 Download for macOC:
   
-  Dmg
-  https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.dmg
-  Pkg
-  https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.pkg
+  Dmg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.dmg
+  Pkg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.pkg
 ==========================================================
 
 v1.1.2
