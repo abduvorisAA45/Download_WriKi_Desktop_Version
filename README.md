@@ -4,10 +4,12 @@ Latest version (v1.2.4)
 
 Download for macOC:
 https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.dmg
+
 https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.pkg
 
 Download for Windows:
 https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.msi
+
 https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.exe
 ==========================================================
 
@@ -15,10 +17,12 @@ v1.2.4
 
 Download for macOC:
 https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.dmg
+
 https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.pkg
 
 Download for Windows:
 https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.msi
+
 https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.exe
 ==========================================================
 
