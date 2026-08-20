@@ -35,8 +35,10 @@ exe: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/do
 v1.1.2
 
 Download for macOC:
+
 dmg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.1.2.dmg
 
 Download for Windows:
+
 msi: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.1.2.msi
 
