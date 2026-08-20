@@ -8,6 +8,7 @@ dmg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/do
 
 pkg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.pkg
 
+
 Download for Windows:
 
 msi: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.msi
@@ -24,6 +25,7 @@ dmg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/do
 
 pkg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.pkg
 
+
 Download for Windows:
 
 msi: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.msi
@@ -37,6 +39,7 @@ v1.1.2
 Download for macOC:
 
 dmg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.1.2.dmg
+
 
 Download for Windows:
 
