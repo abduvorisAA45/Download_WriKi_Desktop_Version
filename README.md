@@ -1,19 +1,24 @@
 Install for free WriKi for desktop for platfroms such as Windows, Linux, MacOC
 
-Latest version (v1.2.4)
+Latest version (v1.2.13)
 
 Download for macOC:
 
-dmg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.dmg
+dmg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.dmg
 
-pkg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.pkg
+pkg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.pkg
 
 
 Download for Windows:
 
-msi: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.msi
+msi: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.msi
 
-exe: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.4.exe
+exe: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.exe
+
+
+Download for Linux:
+
+deb: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.deb
 
 ==========================================================
 
@@ -23,6 +28,19 @@ Download for macOC:
 
 dmg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.dmg
 pkg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.pkg
+
+
+Download for Windows:
+
+msi: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.msi
+
+exe: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.exe
+
+
+Download for Linux:
+
+deb: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.deb
+
 
 v1.2.4
 
