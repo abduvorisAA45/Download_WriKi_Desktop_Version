@@ -27,6 +27,7 @@ v1.2.13
 Download for macOC:
 
 dmg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.dmg
+
 pkg: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.pkg
 
 
