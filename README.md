@@ -18,7 +18,7 @@ exe: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/do
 
 Download for Linux:
 
-deb: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.deb
+deb: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/wriki_1.2.13_amd64.deb
 
 ==========================================================
 
@@ -40,7 +40,7 @@ exe: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/do
 
 Download for Linux:
 
-deb: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/WriKi-1.2.13.deb
+deb: https://github.com/abduvorisAA45/Download_WriKi_Desktop_Version/releases/download/v1.0.0/wriki_1.2.13_amd64.deb
 
 
 v1.2.4
